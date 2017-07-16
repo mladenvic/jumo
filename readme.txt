@@ -26,6 +26,5 @@ PROGRAMMING AND STYLE
 - Since we're not allowed to use the SQL 'group by' or aggregate libraries - i had to write a class_jumo_loan.php which takes care of this with array management in PHP.
 - The code file: class_jumo_loan.php converts the simple array into associative array.
 - This is done by taking the heading of the csv file and making the headings into key index for the array.
-- Then the array is send using the JSON for reports to be executed.
 
 -------------------------------------------
