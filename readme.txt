@@ -33,3 +33,6 @@ PROGRAMMING AND STYLE
 - JSON results get pulled by the javascript functions (javascript.php) and utilizing ajax push into the HTML page available to be exported in CSV or PDF.
 
 -------------------------------------------
+ADDITIONAL INTEGRATION
+- I've added a BI reports by using Zoho Reports, for extra business insight and analytics.
+- The BI charts & reports can be accessed by clicking on the 'Analytics' tag on the main index page.
